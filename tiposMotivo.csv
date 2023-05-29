@@ -1,29 +1,29 @@
-motivo_ausencia;tipo_ausencia
-1;Doenças infecciosas causadas por parasitas, bactérias, fungos e protozoários.
+cd_motivoAusencia;ds_motivoAusencia
+1;DoenÃ§as infecciosas causadas por parasitas, bactÃ©rias, fungos e protozoÃ¡rios.
 2;Neoplasias e tumores.
-3;Doenças do sangue.
-4;Distúrbios hormonais e de metabolismo.
-5;Doenças mentais e comportamentais.
-6;Distúrbios do sistema nervoso.
-7;Problemas ligados à visão.
-8;Doenças que atingem os ouvidos e a audição.
-9;Problemas de coração e no sistema circulatório.
-10;Doenças que atingem o sistema respiratório.
+3;DoenÃ§as do sangue.
+4;DistÃºrbios hormonais e de metabolismo.
+5;DoenÃ§as mentais e comportamentais.
+6;DistÃºrbios do sistema nervoso.
+7;Problemas ligados Ã  visÃ£o.
+8;DoenÃ§as que atingem os ouvidos e a audiÃ§Ã£o.
+9;Problemas de coraÃ§Ã£o e no sistema circulatÃ³rio.
+10;DoenÃ§as que atingem o sistema respiratÃ³rio.
 11;Problemas bucais.
-12;Doenças de pele e do tecido subcutâneo.
-13;Doenças do tecido conjuntivo, ósseo e muscular.
-14;Problemas do sistema urinário.
-15;Complicações durante a gestação.
-16;Complicações próximas ao nascimento.
-17;Alterações cromossômicas.
-18;Doenças com sintomas não diagnosticados.
-19;Fatores externos que podem gerar lesões.
+12;DoenÃ§as de pele e do tecido subcutÃ¢neo.
+13;DoenÃ§as do tecido conjuntivo, Ã³sseo e muscular.
+14;Problemas do sistema urinÃ¡rio.
+15;ComplicaÃ§Ãµes durante a gestaÃ§Ã£o.
+16;ComplicaÃ§Ãµes prÃ³ximas ao nascimento.
+17;AlteraÃ§Ãµes cromossÃ´micas.
+18;DoenÃ§as com sintomas nÃ£o diagnosticados.
+19;Fatores externos que podem gerar lesÃµes.
 20;Causas externas que causam a morte.
-21;Doenças transmissíveis e pessoas que representam um risco a si e aos outros.
-22;Revisão
-23;Consulta médica
-24;Doação de sangue
+21;DoenÃ§as transmissÃ­veis e pessoas que representam um risco a si e aos outros.
+22;RevisÃ£o
+23;Consulta mÃ©dica
+24;DoaÃ§Ã£o de sangue
 25;Exame laboratorial
-26;Falta não justificada
+26;Falta nÃ£o justificada
 27;Fisioterapia
-28;Consulta odontológica
+28;Consulta odontolÃ³gica
